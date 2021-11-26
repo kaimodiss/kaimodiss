@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kaimodiss
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Js
+- 📫 How to reach me Via discord https://discord.gg/kZyQTd87tt
